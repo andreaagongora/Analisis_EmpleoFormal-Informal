@@ -3,4 +3,4 @@ Creación de un mapa de México para analizar los estados con mayor condición d
 Las mayores tasas reflejan una mayor desigualdad de empleo (formal/inormal) entre la población.
 Los estados en rojo reflejan una mayor brecha laboral entre su población.
 
- <img src="https://github.com/andreaagt/Analisis_EmpleoFormal-Informal/blob/main/mapa.png" alt="mapa" width="500" height="1000"> 
+ <img src="https://github.com/andreaagt/Analisis_EmpleoFormal-Informal/blob/main/mapa.png" alt="mapa" width="1000" height="500"> 
